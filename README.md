@@ -1,4 +1,4 @@
-# Batch Matroska Tracks Multiplexer ( BMTMuxer ):
+# Batch Matroska Tracks Multiplexer ( BMTMuxer )
 The Ultimate Tool to Batch Multiplexing and Demultiplexing Matroska Tracks and More with Ease in a Very Simplified User Interface.
 
 # Supports:
