@@ -1,4 +1,4 @@
-# BatchMatroskaTracksMultiplexer : https://sites.google.com/site/tsdarkness/batchmatroskatracksmultiplexer
+# BatchMatroskaTracksMultiplexer:
 The Ultimate Tool to Batch Multiplexing and Demultiplexing Matroska Tracks and More with Ease in a Very Simplified User Interface.
 
 Supports:
@@ -15,14 +15,4 @@ Supports:
 *Batch Split Matroska Files By Chapters.
 *Batch Clean and Optimize Matroska Files.
 
-Requirements:
-Microsoft DotNet Framework v4.5.
-
-Copyright Information:
-Config Parser Copyright © Salaros.
-Matroska Library Copyright © Steve Lhomme.
-MI Library Copyright © MediaArea.net SARL.
-
-Contact Info:
-Site : https://sites.google.com/site/tsdarkness
-Email: tsdarkness (at) gmail (dot) com
+Official Homepage: https://sites.google.com/site/tsdarkness/batchmatroskatracksmultiplexer
